@@ -1,3 +1,3 @@
-# movie App 2019
+# Movie App 2019
 
-React JS first Study!!
+React JS STUDY !
